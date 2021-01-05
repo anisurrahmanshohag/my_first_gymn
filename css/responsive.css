@@ -1,0 +1,1150 @@
+/*============================================================================================
+									Media quary for Double extra large device
+==============================================================================================*/
+@media (min-width: 1400px) {
+	#footer_part .contac_col {
+		padding: 30px;
+	}
+
+	.pond {
+		right: 70px;
+		bottom: 40px;
+	}
+
+}
+
+/*============================================================================================
+									Media quary for extra large device
+==============================================================================================*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+	/*	Banner part start*/
+	.banner_items .frm h3::before {
+		width: 22%;
+	}
+
+	.banner_items .frm p::before {
+		width: 11.5%;
+	}
+
+	.banner_items .frm p::after {
+		width: 15%;
+	}
+
+	#banner_part .slick-dots {
+		bottom: 30px;
+	}
+
+	/*	Banner part end*/
+	/*	Gallery part End*/
+	#gallery_part .g_image .gal_img .overlay {
+		height: 90%;
+		left: 9px;
+		top: 9px;
+	}
+
+	/*	Gallery part End*/
+
+	/*	Our Classes part Start*/
+	#week_piller .tab_cells ul li {
+		width: 19.46%;
+
+
+	}
+
+	/*	Our Classes part End*/
+
+	/*	Branding part Start*/
+	#logo_part .slick-prev {
+		width: 15px;
+		height: 20px;
+		left: 20%;
+		top: 120%;
+	}
+
+	#logo_part .slick-next {
+		width: 15px;
+		height: 20px;
+		right: 20%;
+		top: 120%;
+	}
+
+	/*	Branding part End*/
+
+	/*	Footer part Start*/
+	#footer_part .contac_col {
+		padding: 30px 0;
+		padding-left: 30px;
+	}
+
+	/*	Footer part End*/
+
+	.pond {
+		width: 30px;
+		height: 40px;
+		position: fixed;
+		right: 15px;
+		bottom: 30px;
+	}
+
+}
+
+/*============================================================================================
+									Media quary for large device
+==============================================================================================*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+	/*Banner part start*/
+	.banner_items .frm h3::before {
+		width: 22%;
+	}
+
+	.banner_items .frm p::before {
+		width: 10.5%;
+	}
+
+	.banner_items .frm p::after {
+		width: 14.5%;
+	}
+
+	#banner_part .slick-dots {
+		bottom: 50px;
+
+	}
+
+	#banner_part .slick-dots li button {
+		width: 15px;
+		height: 15px;
+	}
+
+	/*Banner part end*/
+	#gallery_part .g_image .gal_img .overlay {
+		position: absolute;
+		width: 90%;
+		height: 86%;
+		left: 5%;
+		top: 4%;
+	}
+
+	/*Our classes part Start*/
+	#week_piller .tab_cells ul li {
+		width: 19.36%;
+
+	}
+
+	#week_piller .tab_cells ul li span {
+		font-size: 40px;
+	}
+
+	/*Our classes part end*/
+
+	/*Our classes part Start*/
+	#footer_part .contac_col {
+		padding: 30px;
+	}
+
+	#footer_part .flickr {
+		padding-top: 30px;
+	}
+
+	/*Our classes part end*/
+
+
+}
+
+/*============================================================================================
+									Media quary for medium device
+==============================================================================================*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+	.banner_items {
+
+		padding: 210px 0 117px;
+
+	}
+
+	.banner_items .md_padd {
+		padding: 0 25px;
+	}
+
+	.banner_items .frm h3::before {
+		width: 21.5%;
+		right: -3%;
+		top: 92%;
+	}
+
+	.banner_items .frm h1::before {
+		width: 3px;
+		height: 176px;
+		right: -3%;
+		top: -8px;
+	}
+
+	.banner_items .frm p::before {
+		width: 8.5%;
+	}
+
+	.banner_items .frm h1::after {
+		width: 3px;
+		height: 173px;
+		left: -2%;
+		top: -7px;
+
+	}
+
+	.banner_items .frm h3::after {
+		width: 30.3%;
+		height: 3px;
+		left: -2%;
+		top: 94%;
+
+	}
+
+	.banner_items .frm p::after {
+		width: 13.5%;
+		height: 3px;
+		left: -2%;
+		bottom: -45px;
+
+	}
+
+	.banner_items .banner_text h3 {
+		font-size: 28px;
+		margin-bottom: 5px;
+	}
+
+	.banner_items .banner_text h1 {
+		font-size: 50px;
+		margin-bottom: 5px;
+	}
+
+	#banner_part .slick-dots li button {
+		width: 16px;
+		height: 16px;
+		font-size: 0;
+		border: 1px solid #fff;
+		background: none;
+		border-radius: 50%;
+		margin-left: 8px;
+	}
+
+
+	/*About part start*/
+	#about_part {
+		margin-top: 50px;
+	}
+
+	#about_part .about_text p {
+		font-size: 14px;
+		text-align: justify;
+		line-height: 24px;
+		padding: 0 7px;
+		margin-bottom: 5px;
+
+	}
+
+	/*About part End*/
+	.section_head {
+		margin-top: 50px;
+		margin-bottom: 20px;
+	}
+
+	/*Gallery part start*/
+	#gallery_part .g_image {
+		padding-top: 20px;
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+
+	#gallery_part .g_image img {
+		margin-bottom: 20px;
+	}
+
+	#gallery_part .g_image img {
+		margin-bottom: 20px;
+	}
+
+	#gallery_part .g_image .gal_img .overlay {
+		position: absolute;
+		width: 90%;
+		height: 86%;
+		left: 5%;
+		top: 4%;
+	}
+
+
+	/*Gallery part End*/
+
+	/*Team part start*/
+	#team_part {
+		margin-top: 20px;
+	}
+
+	#team_part .device_slid {
+		position: relative;
+	}
+
+	#team_part .team_img .team_text p {
+		opacity: 0;
+	}
+
+	/*Team part End*/
+
+	/*Testimonial part start*/
+	.topmarg {
+		margin-top: 25px;
+	}
+
+	#testi_part .slick-dots li button {
+		width: 16px;
+		height: 16px;
+	}
+
+	.testi_slider {
+		padding-left: 25px;
+	}
+
+	#testi_part .test_col > p {
+		font-size: 15px;
+
+	}
+
+	/*Testimonial part End*/
+
+	/*Membership part start*/
+
+
+	/*Membership part End
+
+	/*Counter part start*/
+
+
+	/*Counter part End*/
+
+	/*Our class part start*/
+
+	#week_piller .tab_menu li {
+		flex-basis: 16.666%;
+		border-bottom: 1px solid #e23e38;
+	}
+
+
+	#week_piller .tab_cells ul li {
+		width: 19.1%;
+		padding: 15px 0;
+
+	}
+
+	#week_piller .tab_cells ul li span {
+		font-size: 35px;
+	}
+
+
+	/*Our class part End*/
+
+	/*Branding part start*/
+	#logo_part {
+		margin: 25px 0;
+	}
+
+	#logo_part .slick-slide {
+		margin-right: 20px;
+	}
+
+	#logo_part .slick-slide img {
+		margin: 0 auto;
+	}
+
+	#logo_part .logo_slop {
+		padding-left: 25px;
+	}
+
+	.res_pad {
+		padding: 20px 0;
+		padding-left: 15px;
+	}
+
+
+
+	/*Branding part End*/
+
+
+	/*Footer part start*/
+	#footer_part h3 {
+		margin-bottom: 10px;
+	}
+
+	#footer_part .feed {
+		padding-bottom: 10px;
+	}
+
+	#footer_part .pading_feed {
+		padding-bottom: 30px;
+	}
+
+	#footer_part .contac_col {
+		padding-left: 5px;
+		padding-bottom: 20px;
+	}
+
+	#footer_part .flickr {
+		padding: 0;
+		padding-bottom: 10px;
+	}
+
+	.pond {
+		width: 20px;
+		height: 25px;
+
+	}
+
+	.scroll_but {
+		width: 10px;
+		height: 15px;
+	}
+
+	#footer_part .tab_foot {
+		font-size: 14px;
+	}
+
+	#footer_part h3 {
+		font-size: 15px;
+	}
+
+	#footer_part .feed li p {
+		font-size: 14px;
+	}
+
+	.res_pad {
+		padding-left: 25px;
+	}
+
+	#footer_part .flickr {
+		padding: 0 15px;
+		margin-bottom: 20px;
+	}
+
+	#footer_part .contac_col {
+		padding-left: 15px;
+
+	}
+
+	/*Footer part End*/
+}
+
+
+
+
+
+/*============================================================================================
+									Media quary for small device
+==============================================================================================*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+	.flipper{
+		display: none;
+	}
+	.changer{
+		display: block;
+	}
+	/*Menu part start*/
+	#menu_bar {
+		background: #e23e38;
+		top: 0;
+
+	}
+
+	#menu_bar .navbar-brand {
+		width: 150px;
+		height: 50px;
+	}
+
+	#menu_bar .navbar-brand img {
+		width: 100px;
+	}
+
+	.navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	#menu_bar ul {
+		background: #e23e38;
+	}
+
+	#menu_bar ul li {
+		text-align: center;
+		margin-left: 0;
+	}
+
+	#menu_bar ul li a {
+		padding: 8px 0;
+	}
+
+	/*Menu part End*/
+
+	/*Banner part start*/
+	.banner_items .banner_text {
+		text-align: center !important;
+		margin-top: 50px;
+	}
+
+	.banner_items .frm h1::after,
+	.banner_items .frm h1::before,
+	.banner_items .frm h3::after,
+	.banner_items .frm h3::before,
+	.banner_items .frm p::after,
+	.banner_items .frm p::before {
+		display: none;
+	}
+
+	.banner_items .banner_text h3 {
+		font-size: 20px;
+		margin-bottom: 5px;
+	}
+
+	.banner_items .banner_text h1 {
+		font-size: 40px;
+		margin-bottom: 5px;
+	}
+
+	.banner_items .banner_text p {
+		margin-bottom: 15px;
+	}
+
+	.banner_items .banner_text a {
+		font-family: 'Oswald', sans-serif;
+		font-size: 13px;
+		font-weight: 500;
+		color: #fff;
+		text-transform: uppercase;
+		border: 2px solid #fff;
+		padding: 2px 12px;
+		margin-left: 15px;
+		transition: all linear .3s;
+		-o-transition: all linear .3s;
+		-ms-transition: all linear .3s;
+		-moz-transition: all linear .3s;
+		-webkit-transition: all linear .3s;
+	}
+
+	#banner_part .slick-dots li button {
+		width: 16px;
+		height: 16px;
+		font-size: 0;
+		border: 1px solid #fff;
+		background: none;
+		border-radius: 50%;
+		margin-left: 8px;
+	}
+
+	/*Banner part End*/
+
+	/*About part start*/
+	#about_part {
+		margin-top: 50px;
+	}
+
+	#about_part .about_text p {
+		font-size: 14px;
+		text-align: justify;
+		line-height: 24px;
+		padding: 0 7px;
+		margin-bottom: 5px;
+
+	}
+
+	/*About part End*/
+	.section_head {
+		margin-top: 50px;
+		margin-bottom: 20px;
+	}
+
+	/*Gallery part start*/
+	#gallery_part .g_image {
+		padding-top: 25px;
+		padding-right: 25px;
+		padding-left: 25px;
+	}
+
+	#gallery_part .g_image img {
+		margin-bottom: 25px;
+	}
+
+	#gallery_part .res_marg img {
+		margin-bottom: 0;
+	}
+
+	#gallery_part .g_image .gal_img .overlay {
+		height: 92%;
+		left: 18px;
+		top: 15px;
+	}
+
+	/*Gallery part End*/
+
+	/*Team part start*/
+	#team_part {
+		margin-top: 50px;
+	}
+
+	#team_part .team_img {
+		transform: translateY(-35px);
+		border: 1px solid #dddddd;
+		margin: 0 5px;
+	}
+
+	#team_part .device_slid {
+		position: relative;
+	}
+
+	#team_part .team_img .team_text p {
+		opacity: 1;
+		font-size: 14px;
+	}
+
+	#team_part .slick-next {
+		width: 20px;
+		height: 30px;
+		clip-path: polygon(0 0, 100% 50%, 0 100%, 3% 95%, 30% 50%, 3% 5%, 0 0);
+		right: 25px;
+		top: -30px;
+		position: absolute;
+		font-size: 0;
+		background: #e23e38;
+	}
+
+
+	#team_part .slick-prev {
+		width: 20px;
+		height: 30px;
+		clip-path: polygon(0 0, 100% 50%, 0 100%, 3% 95%, 30% 50%, 3% 5%, 0 0);
+		left: 25px;
+		top: -30px;
+		position: absolute;
+		font-size: 0;
+		background: #444444;
+		transform: rotate(180deg);
+	}
+
+	/*Team part End*/
+
+	/*Testimonial part start*/
+	.topmarg {
+		margin-top: 25px;
+	}
+
+	#testi_part .slick-dots li button {
+		width: 16px;
+		height: 16px;
+	}
+
+	.testi_slider {
+		padding-left: 25px;
+	}
+
+	#testi_part .test_col > p {
+		font-size: 15px;
+
+	}
+
+	/*Testimonial part End*/
+
+	/*Membership part start*/
+	#membership .memb_cont h3,
+	#membership .memb_cont a {
+		padding: 15px 0;
+	}
+
+	#membership .memb_cont h2 {
+		padding: 20px 0;
+		font-size: 35px;
+		margin-bottom: 25px;
+	}
+
+	#membership .memb_cont p span {
+		padding-bottom: 20px;
+	}
+
+	#membership .memb_cont {
+		margin-bottom: 25px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	/*Membership part End*/
+
+	/*Counter part start*/
+	#counter_part {
+		padding: 25px 0;
+
+	}
+
+	#counter_part h4 {
+		font-size: 25px;
+	}
+
+	#counter_part p {
+		font-size: 15px;
+	}
+
+	/*Counter part End*/
+
+	/*Our class part start*/
+
+
+	#week_piller .tab_menu li {
+		flex-basis: 16.66%;
+		border-bottom: 1px solid #e23e38;
+	}
+
+	#week_piller .tab_cells ul li {
+		width: 48.91%;
+
+	}
+
+
+
+	/*Our class part End*/
+
+	/*Branding part start*/
+	#logo_part {
+		margin: 25px 0;
+	}
+
+	#logo_part .slick-slide {
+		margin-right: 20px;
+	}
+
+	#logo_part .slick-slide img {
+		margin: 0 auto;
+	}
+
+	#logo_part .logo_slop {
+		padding-left: 25px;
+	}
+
+	.res_pad {
+		padding: 20px 0;
+		padding-left: 15px;
+	}
+
+
+
+	/*Branding part End*/
+
+
+	/*Footer part start*/
+	#footer_part h3 {
+		margin-bottom: 10px;
+	}
+
+	#footer_part .feed {
+		padding-bottom: 10px;
+	}
+
+	#footer_part .pading_feed {
+		padding-bottom: 30px;
+	}
+
+	#footer_part .contac_col {
+		padding-left: 5px;
+		padding-bottom: 20px;
+	}
+
+	#footer_part .flickr {
+		padding: 0;
+		padding-bottom: 10px;
+	}
+
+	.pond {
+		width: 20px;
+		height: 25px;
+
+	}
+
+	.scroll_but {
+		width: 10px;
+		height: 15px;
+	}
+
+	#footer_part .tab_foot {
+		font-size: 14px;
+	}
+
+	#footer_part h3 {
+		font-size: 15px;
+	}
+
+	#footer_part .feed li p {
+		font-size: 14px;
+	}
+
+	.res_pad {
+		padding-left: 25px;
+	}
+
+	#footer_part .flickr {
+		padding: 0 15px;
+		margin-bottom: 20px;
+	}
+
+	#footer_part .contac_col {
+		padding-left: 15px;
+
+	}
+
+	/*Footer part End*/
+}
+
+/*============================================================================================
+									Media quary for extra small device
+==============================================================================================*/
+@media (max-width: 575.98px) {
+
+	/*Menu part start*/
+	.flipper{
+		display: none;
+	}
+	.changer{
+		display: block;
+	}
+	.menu_fixer {
+		position: sticky;
+		width: 100%;
+		height: 100%;
+		top: 0;
+		left: 0;
+		z-index: 1290;
+	}
+
+	#menu_bar {
+		background: #e23e38;
+		top: 0;
+	}
+
+	#menu_bar .navbar-brand {
+		width: 150px;
+		height: 50px;
+	}
+
+	#menu_bar .navbar-brand img {
+		width: 100px;
+	}
+
+	.navbar-toggler:focus {
+		box-shadow: none;
+	}
+
+	#menu_bar ul {
+		background: #e23e38;
+	}
+
+	#menu_bar ul li {
+		text-align: center;
+		margin-left: 0;
+	}
+
+	#menu_bar ul li a {
+		padding: 8px 0;
+	}
+
+	/*Menu part End*/
+
+	/*Banner part start*/
+	.banner_items .banner_text {
+		text-align: center !important;
+		margin-top: -150px;
+	}
+
+	.banner_items .frm h1::after,
+	.banner_items .frm h1::before,
+	.banner_items .frm h3::after,
+	.banner_items .frm h3::before,
+	.banner_items .frm p::after,
+	.banner_items .frm p::before {
+		display: none;
+	}
+
+	.banner_items .banner_text h3 {
+		font-size: 20px;
+		margin-bottom: 5px;
+	}
+
+	.banner_items .banner_text h1 {
+		font-size: 40px;
+		margin-bottom: 5px;
+	}
+
+	.banner_items .banner_text p {
+		margin-bottom: 15px;
+	}
+
+	.banner_items .banner_text a {
+		font-family: 'Oswald', sans-serif;
+		font-size: 13px;
+		font-weight: 500;
+		color: #fff;
+		text-transform: uppercase;
+		border: 2px solid #fff;
+		padding: 2px 12px;
+		margin-left: 15px;
+		transition: all linear .3s;
+		-o-transition: all linear .3s;
+		-ms-transition: all linear .3s;
+		-moz-transition: all linear .3s;
+		-webkit-transition: all linear .3s;
+	}
+
+	#banner_part .slick-dots li button {
+		width: 12px;
+		height: 12px;
+		font-size: 0;
+		border: 1px solid #fff;
+		background: none;
+		border-radius: 50%;
+		margin-left: 8px;
+	}
+
+	/*Banner part End*/
+
+	/*About part start*/
+	#about_part {
+		margin-top: 50px;
+	}
+
+	#about_part .about_text p {
+		font-size: 14px;
+		text-align: justify;
+		line-height: 24px;
+		padding: 0 7px;
+		margin-bottom: 5px;
+
+	}
+
+	/*About part End*/
+	.section_head {
+		margin-top: 50px;
+		margin-bottom: 20px;
+	}
+
+	/*Gallery part start*/
+	#gallery_part .g_image {
+		padding-top: 12px;
+	}
+
+	#gallery_part .g_image img {
+		margin-bottom: 12px;
+	}
+
+	#gallery_part .res_marg img {
+		margin-bottom: 0;
+	}
+
+	#gallery_part .g_image .gal_img .overlay {
+		height: 92%;
+		left: 8px;
+		top: 8px;
+	}
+
+	/*Gallery part End*/
+
+	/*Team part start*/
+	#team_part {
+		margin-top: 50px;
+	}
+
+	#team_part .team_img {
+		transform: translateY(-35px);
+		border: 1px solid #dddddd;
+		margin: 0 5px;
+	}
+
+	#team_part .device_slid {
+		position: relative;
+	}
+
+	#team_part .team_img .team_text p {
+		opacity: 1;
+	}
+
+	#team_part .slick-next {
+		width: 20px;
+		height: 30px;
+		clip-path: polygon(0 0, 100% 50%, 0 100%, 3% 95%, 30% 50%, 3% 5%, 0 0);
+		right: 25px;
+		top: -30px;
+		position: absolute;
+		font-size: 0;
+		background: #e23e38;
+	}
+
+
+	#team_part .slick-prev {
+		width: 20px;
+		height: 30px;
+		clip-path: polygon(0 0, 100% 50%, 0 100%, 3% 95%, 30% 50%, 3% 5%, 0 0);
+		left: 25px;
+		top: -30px;
+		position: absolute;
+		font-size: 0;
+		background: #444444;
+		transform: rotate(180deg);
+	}
+
+	/*Team part End*/
+
+	/*Testimonial part start*/
+	.topmarg {
+		margin-top: 25px;
+	}
+
+	#testi_part .slick-dots li button {
+		width: 13px;
+		height: 13px;
+	}
+
+	/*Testimonial part End*/
+
+	/*Membership part start*/
+	#membership .memb_cont h3,
+	#membership .memb_cont a {
+		padding: 15px 0;
+	}
+
+	#membership .memb_cont h2 {
+		padding: 20px 0;
+		font-size: 35px;
+		margin-bottom: 25px;
+	}
+
+	#membership .memb_cont p span {
+		padding-bottom: 20px;
+	}
+
+	#membership .memb_cont {
+		margin-bottom: 25px;
+		margin-right: auto;
+		margin-left: auto;
+	}
+
+	/*Membership part End*/
+
+	/*Counter part start*/
+	#counter_part {
+		padding: 25px 0;
+
+	}
+
+	#counter_part h4 {
+		font-size: 25px;
+	}
+
+	#counter_part p {
+		font-size: 17px;
+	}
+
+	/*Counter part End*/
+
+	/*Our class part start*/
+	#week_piller {
+		margin-bottom: 0;
+	}
+
+	#week_piller .tab_menu li {
+		border-bottom: 1px solid #e23e38;
+		flex-basis: 33.333%;
+	}
+
+
+	#week_piller .tab_menu li a {
+		padding: 10px 0;
+
+	}
+
+	#week_piller .tab_cells ul {
+		margin-top: 20px !important;
+	}
+
+	#week_piller .tab_cells ul li {
+		width: 47.9%;
+		padding: 20px 0;
+
+	}
+
+
+	#week_piller .tab_cells ul li span {
+		margin-left: 0;
+		font-size: 25px;
+		color: #444444;
+	}
+
+	#week_piller .tab_cells ul li:hover p,
+	#week_piller .tab_cells ul li:hover h6 {
+		font-weight: 400;
+	}
+
+	/*Our class part End*/
+
+	/*Branding part start*/
+	#logo_part {
+		margin: 25px 0;
+	}
+
+	#logo_part .slick-slide {
+		margin-right: 20px;
+	}
+
+	#logo_part .logo_slop {
+		padding-left: 25px;
+	}
+
+	.res_pad {
+		padding: 20px 0;
+		padding-left: 15px;
+	}
+
+
+
+	/*Branding part End*/
+
+
+	/*Footer part start*/
+	#footer_part h3 {
+		margin-bottom: 10px;
+	}
+
+	#footer_part .feed {
+		padding-bottom: 10px;
+	}
+
+	#footer_part .pading_feed {
+		padding-bottom: 30px;
+	}
+
+	#footer_part .contac_col {
+		padding-left: 5px;
+		padding-bottom: 20px;
+	}
+
+	#footer_part .flickr {
+		padding: 0;
+		padding-bottom: 10px;
+	}
+
+	.pond {
+		width: 20px;
+		height: 25px;
+
+	}
+
+	.scroll_but {
+		width: 10px;
+		height: 15px;
+	}
+
+	/*Footer part End*/
+
+}
+
+/*Extra*/
+/*Extra*/
